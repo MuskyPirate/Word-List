@@ -1,0 +1,9 @@
+This is the list of passwords (to be best of ability) from the NAZ.API credential leak.
+
+The purpose of this list is to assist with pentesting and that is why the list only contains passwords where any mentions of associated services and usernames have been removed.
+
+The acquired list had passwords that exceeded 100 characters (some reaching even more). Therefore, in order to makes things simple I have capped the list to passwords that do not exceed 50 characters.
+
+Some "passwords" were litterally the URL addresses or folder path which seems too unique to be in a wordlist, hence they were removed.
+
+The list is checked for duplicates and sorted by length.
